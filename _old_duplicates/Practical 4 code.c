@@ -1,7 +1,6 @@
-
+// Aim: write and implement the knacsak problem
 
 #include <stdio.h>
-
 struct Item {
     int weight;
     int profit;
